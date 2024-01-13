@@ -1,4 +1,4 @@
-# Tailscale for Magisk
+# 自用的备用机和电脑异地组网模块
 
 [README](README.md) | [中文文档](README_zh.md)
 
